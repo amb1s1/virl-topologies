@@ -7,7 +7,7 @@
         <interface id="0" name="Ethernet2/1"/>
         <interface id="1" name="Ethernet2/2"/>
     </node>
-    <node name="palo_alto-1" type="SIMPLE" subtype="Palo_alto" location="229,113">
+    <node name="palo_alto-1" type="SIMPLE" subtype="Palo_alto" location="229,113" vmImage="Palo_alto-7.1 [8d6f8684-3922-4b20-9757-0bed0269a627]">
         <interface id="0" name="Ethernet1/1"/>
         <interface id="1" name="Ethernet1/2"/>
         <interface id="2" name="Ethernet1/3"/>
